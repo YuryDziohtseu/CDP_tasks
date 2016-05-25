@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.9" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="by.epam.cdp.task_2_1.App" project="hometasks_1-4" 
+    file="/hometasks_1-4/src/main/java/by/epam/cdp/task_2_1/App.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="209" y="130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="by.epam.cdp.task_2_1.customExceptions.CountryIsNullCustomException" 
+    project="hometasks_1-4" 
+    file="/hometasks_1-4/src/main/java/by/epam/cdp/task_2_1/customExceptions/CountryIsNullCustomException.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="214" y="426"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="by.epam.cdp.task_2_1.devices.careEquipment.Hairdryer" project="hometasks_1-4" 
+    file="/hometasks_1-4/src/main/java/by/epam/cdp/task_2_1/devices/careEquipment/Hairdryer.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="737" y="1049"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="by.epam.cdp.task_2_1.devices.careEquipment.Razor" project="hometasks_1-4" 
+    file="/hometasks_1-4/src/main/java/by/epam/cdp/task_2_1/devices/careEquipment/Razor.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="221" x="932" y="989"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="by.epam.cdp.task_2_1.devices.audioVideo.Tv" project="hometasks_1-4" 
+    file="/hometasks_1-4/src/main/java/by/epam/cdp/task_2_1/devices/audioVideo/Tv.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="212" y="1050"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="6" language="java" name="by.epam.cdp.task_2_1.datadataAccess.DataAccess" project="hometasks_1-4" 
+    file="/hometasks_1-4/src/main/java/by/epam/cdp/task_2_1/datadataAccess/DataAccess.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="961" y="126"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="7" language="java" name="by.epam.cdp.task_2_1.customExceptions.ApartmentIsNullCustomException" 
+    project="hometasks_1-4" 
+    file="/hometasks_1-4/src/main/java/by/epam/cdp/task_2_1/customExceptions/ApartmentIsNullCustomException.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="219" y="286"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="by.epam.cdp.task_2_1.Apartment" project="hometasks_1-4" 
+    file="/hometasks_1-4/src/main/java/by/epam/cdp/task_2_1/Apartment.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="621" y="200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="by.epam.cdp.task_2_1.datadataAccess.xmlMarshaller.XmlMarshaller" 
+    project="hometasks_1-4" 
+    file="/hometasks_1-4/src/main/java/by/epam/cdp/task_2_1/datadataAccess/xmlMarshaller/XmlMarshaller.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="960" y="336"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="by.epam.cdp.task_2_1.devices.audioVideo.AudioVideo" project="hometasks_1-4" 
+    file="/hometasks_1-4/src/main/java/by/epam/cdp/task_2_1/devices/audioVideo/AudioVideo.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="499" y="898"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="by.epam.cdp.task_2_1.devices.Device" project="hometasks_1-4" 
+    file="/hometasks_1-4/src/main/java/by/epam/cdp/task_2_1/devices/Device.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="617" y="582"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="by.epam.cdp.task_2_1.devices.audioVideo.Radio" project="hometasks_1-4" 
+    file="/hometasks_1-4/src/main/java/by/epam/cdp/task_2_1/devices/audioVideo/Radio.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="496" y="1047"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="by.epam.cdp.task_2_1.devices.careEquipment.CareEquipment" project="hometasks_1-4" 
+    file="/hometasks_1-4/src/main/java/by/epam/cdp/task_2_1/devices/careEquipment/CareEquipment.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="114" width="215" x="633" y="843"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="14">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <generalization id="15">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <generalization id="16">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <generalization id="17">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <generalization id="18">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <realization id="19">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="6"/>  
+  </realization>  
+  <generalization id="20">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <association id="21">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="22" name="apartmentDevices"/>      
+      <multiplicity id="23" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

@@ -68,12 +68,11 @@ public class Calc {
 			System.out.println("Enter number again: ");
 			readNumber();
 		}
-		scanner.close();
 		return number;
 	}
 
 	private static String readOperation() {
-		String operation = null;
+		String operation;
 		Scanner scanner = new Scanner(System.in);
 
 		operation = scanner.next();
